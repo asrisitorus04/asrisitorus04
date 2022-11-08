@@ -1,5 +1,15 @@
-### Hi there 👋
+# Hi there 👋 , I'm Asri!
+I’m interested in Front-End Programming and UI Design, Python and DEV-c++ programs and skill others Hardware and Cisco Networking
 
+### Stats:
+<details>
+ <summary><strong>What i am learning on these days</strong></summary>
+    - 🔭 I’m interested in UI Design and Front-End Programming </br>
+    - 🌱 I’m currently learning React, Next, Tailwind CSS, Bootstrap and Python</br>
+    - 👯 I’m looking to collaborate on Automation Project, Hardware </br>
+    - 💬 Ask me about anything.</br>
+    - 📫 How to reach me: <a href="asrisitorus04@gmail.com">Email me!</a>  </br>
+</details>
 <!--
 **asrisitorus04/asrisitorus04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
